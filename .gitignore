@@ -1,0 +1,5 @@
+build/x86_64/boot/header.o
+build/x86_64/boot/main.o
+dist/x86_64/kernel.bin
+dist/x86_64/kernel.iso
+targets/x86_64/iso/boot/kernel.bin
